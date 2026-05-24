@@ -21,7 +21,7 @@ export default function Home() {
             <p className="text-lg text-muted-foreground mb-8 text-balance">
               Deteksi dan hitung jumlah ayam dengan teknologi AI YOLOv12. Hemat waktu, kurangi kesalahan, tingkatkan efisiensi peternakan Anda.
             </p>
-            <Link href="/deteksi">
+            <Link href="/login">
               <button className="bg-primary text-primary-foreground px-8 py-4 rounded-xl font-semibold hover:bg-primary/90 transition-colors inline-flex items-center gap-2">
                 Mulai Hitung Ayam
                 <ArrowRight size={20} />
